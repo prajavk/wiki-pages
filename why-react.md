@@ -14,22 +14,14 @@ CLI             | create-react-app|   in-built
 ------------------------------------------------------
 ```
 
-How React components splited in a big page
-1. ratings, navLink, authorPhoto
-2. CourseSummary [course name, desc, ratings]
-3. AuthorSummary [ authorPhoto, author profile]
-3. AuthorCourses [ courseSummary]
-4. SidebarNav [navLink]
-5. Page [SidebarNav, AuthorSummary, AuthorCourses]
-
-## React Basic Packages
-1.react
-2.react-dom
-3.react-redux router
-4.react-thunk
-5.react-axios
-6.redux
-7.react-bootstrap
+## Basic npm packages
+1. react
+2. react-dom
+3. react-redux router
+4. react-thunk
+5. react-axios
+6. redux
+7. react-bootstrap
 
 ## Must Know Topics
 ES6, Promise, Axios, React basics, Redux
@@ -43,11 +35,7 @@ https://medium.freecodecamp.org/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853
 ## Search for npm packages
 https://libraries.io/
 
-## Example to know npm scripts
-https://github.com/coryhouse/react-slingshot
-
 Example of npm scripts- The scripts below will run in order based on their prefix.
-https://app.pluralsight.com/library/courses/npm-build-tool-introduction/table-of-contents
 ```
 {
 "name": "npm-scripts-example",
@@ -79,7 +67,7 @@ https://app.pluralsight.com/library/courses/npm-build-tool-introduction/table-of
 
 ```
 
-## Key Notes about REACT
+## Key notes about REACT
 
 1. Capitalization:
 The component name must be capitalized, both in JSX as well as when you define them
@@ -191,3 +179,51 @@ class MyComponent extends Component {
 2. Don’t use HOCs inside the render method. This makes React's reconciliation algorithm think that a new component is redeclared within each render, causing the whole subtree to be unmounted rather than just checked for differences.
 3. Static methods do not get copied implicitly. This needs to be done explicitl. A good way to do it is with hoist-non-react-statics package.
 4. Refs don’t get passed through.
+
+## Contents
+- What is React?
+- what is JSX? ES6?
+- Complex components - start break down complex page into pieces
+- Data-driven components - setup components to be driven by data to them access to external data.
+- State - How Stateful components work in React
+- Lifecycle Hooks to use in React
+- Packaging and PropTypes
+- Styles - Different methods we use to style cmps from traditional css to inline styling.
+- Interactivity - Build dynamic components to engage with application
+- Pure Components - React offers different methods to create components. How to create cmps, functoins stateless pure component.
+- Repeating Elements - How to display multiple cmps by pulling in external data into our app.
+- Intro APIs - How to make external request to fecth data. make call to an external API.
+- Promises - Understand Promises from a high level, build our applications using this concept.
+- Displaying Remote Data - start requesting remote data and get it integrated into our app.
+- Client-side Routing - If application has multiple views in our single-page app. how to create multile views using React Router.
+
+- Redux - Data Management becomes easy with Redux Integration across app.
+- Redux actions - How we actually modify the Redux state from within our apps.
+- Redux Middleware - Redux method of managing complex state changes in our code using Redux middleware.
+
+## Testing
+- Implementing different types of tests that we write in React.
+- Install the dependencies required to setup tests.
+- Components testing with React- Testing tools like JEST
+- Open source library maintained by Airbnb called "Enzyme" that makes testing fun and easy
+- Integration Testing - how to write tests to simulate how user interact with our app.and will test the entire flow of our app in a live browser.
+
+## Deployment
+- Different pieces involved in deploying our React app 
+- Integration Solutions available in marketplace to run tests when app in the cloud.
+
+
+## Key Features of React Component
+Props
+- Props are the "arguments" to your components
+
+Event Handlers
+- onClick specifies a function that we can call when an element is clicked
+
+Nested Components
+- Components can be used by other components. A React app is a tree of nested components
+
+Dynamic Attributes
+- By mixing code and markup, we're able to easily change the view based on state
+
+- State in a component is intended to be completely internal to the Component and it's children
