@@ -1,13 +1,14 @@
-# react-study
-List all tutorials snippets blog links
+# React Resources
+Listout all tutorials, code snippets, blogs as below
 
-## Packages recommended to install in ATOM Editor for React app development.
-https://medium.com/productivity-freak/my-atom-editor-setup-for-js-react-9726cd69ad20
+### Packages recommended to install in ATOM Editor for React app development.
+[Jekyll](https://jekyllrb.com/) 
+[Atom Editor plugins](https://medium.com/productivity-freak/my-atom-editor-setup-for-js-react-9726cd69ad20)
 
 ## Markdown file syntax, highlighter:
-https://guides.github.com/features/mastering-markdown/#syntax
-https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf
-https://dillinger.io/
+1. https://guides.github.com/features/mastering-markdown/#syntax
+2. https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf
+3. https://dillinger.io/
 
 ## Online Editors:
 1. https://magic.reactjs.net/htmltojsx.htm
@@ -34,9 +35,8 @@ https://dillinger.io/
 4. https://egghead.io/courses/start-learning-react
 5. https://egghead.io/courses/the-beginner-s-guide-to-react
 6. https://academind.com/learn/react/react-and-redux-an-introduction/
-7. Context vs redux code review
-https://www.youtube.com/watch?v=OvM4hIxrqAw&t=6s
-8. Free React course https://roadtoreact.com/my-courses
+7. [Context vs redux code review](https://www.youtube.com/watch?v=OvM4hIxrqAw&t=6s)
+8. [Free React course](https://roadtoreact.com/my-courses)
 
 ## Learn ReactJS
 1. https://www.fullstackreact.com/30-days-of-react/
@@ -46,18 +46,18 @@ https://www.youtube.com/watch?v=OvM4hIxrqAw&t=6s
 5. https://egghead.io/courses/react-context-for-state-management
 
 ## UI Component Libraries
-1. Material UI https://material-ui.com/
-2. BlueprintJS https://blueprintjs.com/
-3. Semantic UI https://react.semantic-ui.com/
-4. Evergreen https://evergreen.segment.com/
-5. ANT Design https://ant.design/docs/react/introduce
-6. React Bootstrap https://react-bootstrap.github.io/
+1. [Material UI](https://material-ui.com/)
+2. [BlueprintJS](https://blueprintjs.com/)
+3. [Semantic UI](https://react.semantic-ui.com/)
+4. [Evergreen](https://evergreen.segment.com/)
+5. [ANT Design](https://ant.design/docs/react/introduce)
+6. [React Bootstrap](https://react-bootstrap.github.io/)
 
 ## Todo Apps
-https://codesandbox.io/s/github/reactjs/redux/tree/master/examples/todomvc
-https://github.com/hueter/react-redux-todo
-https://codesandbox.io/s/github/reactjs/redux/tree/master/examples/todos-with-undo
-https://github.com/tastejs/todomvc/tree/gh-pages/examples/react/js
+1. https://codesandbox.io/s/github/reactjs/redux/tree/master/examples/2. todomvc
+3. https://github.com/hueter/react-redux-todo
+4. https://codesandbox.io/s/github/reactjs/redux/tree/master/examples/todos-with-undo
+5. https://github.com/tastejs/todomvc/tree/gh-pages/examples/react/js
 
 ## React with ES6
 1. http://ccoenraets.github.io/es6-tutorial-react/setup/
@@ -70,9 +70,9 @@ https://github.com/tastejs/todomvc/tree/gh-pages/examples/react/js
 3. https://medium.com/javascript-inside/better-understanding-forms-in-react-a85d889773ce
 4. https://moduscreate.com/blog/reactjs-form-validation-approaches/
 5. https://codeburst.io/how-to-use-html5-form-validations-with-react-4052eda9a1d4
-6. Formik custom event: https://codesandbox.io/s/j7ljpjm6v
+6. [Formik custom event](https://codesandbox.io/s/j7ljpjm6v)
 
-## React Hooks?
+## What is React Hooks?
 1. https://medium.com/octopus-labs-london/replacing-redux-with-react-hooks-and-context-part-1-11b72ffdb533
 2. https://reactjs.org/docs/hooks-faq.html#is-there-something-like-instance-variables
 3. https://medium.com/@coolram2104/smart-way-of-dispatching-events-in-react-406c7ace94fd
@@ -82,7 +82,7 @@ https://github.com/tastejs/todomvc/tree/gh-pages/examples/react/js
 7. https://blog.logrocket.com/a-guide-to-usestate-in-react-ecb9952e406c/
 8. https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672
 
-## Redux - CRUD example
+## Redux - CRUD Example
 Benefits of redux (i.e. using third party middleware, or writing your own custom middleware, time-travel debugging, redux dev tools, etc.)
 1. https://codepen.io/allanpope/post/build-react-redux-component
 2. https://codepen.io/aldy1823/pen/dJmPYO
@@ -112,7 +112,7 @@ https://codepen.io/brady_wright/pen/NNOvrW
 4. https://codesandbox.io/s/54op72xm0p
 5. http://michaelsoriano.com/learning-reactjs-looping-through-multiple-nested-components/
 
-## React issues?
+## React issues
 1. https://github.com/facebook/prop-types
 2. https://stackoverflow.com/questions/26923042/how-do-you-validate-the-proptypes-of-a-nested-object-in-reactjs
 3. https://reactjs.org/docs/react-component.html#static-getderivedstatefromprops
@@ -121,29 +121,27 @@ https://codepen.io/brady_wright/pen/NNOvrW
 ## Axios Examples
 1. https://code.tutsplus.com/tutorials/introduction-to-api-calls-with-react-and-axios--cms-21027
 2. https://alligator.io/react/axios-react/
-3. Axios with expressjs and mongodb
-https://appdividend.com/2018/05/30/react-axios-tutorial-example-from-scratch/
+3. [Axios with expressjs and mongodb](https://appdividend.com/2018/05/30/react-axios-tutorial-example-from-scratch/)
 
 ## Design patterns of React
 1. https://reactjs.org/docs/design-principles.html
 2. https://reactpatterns.com/
 3. https://hackernoon.com/10-react-mini-patterns-c1da92f068c5
 4. https://github.com/reactjs/react-router-redux
-5. React with Oauth
-https://auth0.com/blog/reactjs-authentication-tutorial/
+5. [React with Oauth](https://auth0.com/blog/reactjs-authentication-tutorial/)
 6. https://github.com/auth0-blog/reactjs-authentication-tutorial
 
-### Enviornments
-https://medium.com/@tacomanator/environments-with-create-react-app-7b645312c09d
+### Enviornment
+1. https://medium.com/@tacomanator/environments-with-create-react-app-7b645312c09d
 
-IBM blog create high performance UI components using React
+2. IBM blog create high performance UI components using React
 https://www.ibm.com/developerworks/library/wa-react-intro/index.html
 
-Begginers - Developing modern apps with ReactJS, Redux
+## Begginers - Developing modern apps with ReactJS, Redux
 1. https://blog.codecentric.de/en/2017/11/developing-modern-offline-apps-reactjs-redux-electron-part-2-reactjs-basics/
 2. https://blog.codecentric.de/en/2017/12/developing-modern-offline-apps-reactjs-redux-electron-part-3-reactjs-redux-basics/
 
-## Boilerplate github code
+## Boilerplate projects from github
 1. https://github.com/divyanshu013/react-redux-bookstore
 2. https://github.com/fullstackreact/food-lookup-demo
 3. https://budget-app.mead.io/
@@ -163,20 +161,20 @@ Begginers - Developing modern apps with ReactJS, Redux
 6. https://github.com/sitepoint-editors/immutable-redux-todo
 
 ## Codepen Examples
-1. React tables - https://react-table.js.org/#/story/simple-table
+1. React Table - https://react-table.js.org/#/story/simple-table
 2. AutoSuggest List - https://codepen.io/rajavk/pen/RJErPP
-3. Autocomplete text - https://codesandbox.io/s/8lyp733pj0
+3. Autocomplete Textbox - https://codesandbox.io/s/8lyp733pj0
 4. React outlook app - https://codepen.io/deammer/pen/NxmEbe
 5. Contact List - https://codesandbox.io/s/github/solkimicreb/react-easy-state/tree/master/examples/contacts
 6. Image-Video Search - https://github.com/scotch-io/react-redux-media-library/tree/master/src
 7. Online Quiz - https://codesandbox.io/s/8zxr00lo48
-8. React tabs - https://codepen.io/bammmmmmmmm/pen/KxByzW
-9. Redux form - https://codepen.io/vmihaylov/pen/PGKqpk
+8. React Tabs - https://codepen.io/bammmmmmmmm/pen/KxByzW
+9. Redux Form - https://codepen.io/vmihaylov/pen/PGKqpk
 10. Sidebar Dashboard - https://codepen.io/roikles/pen/dJmejR
-11. TODO -  https://codesandbox.io/s/rlknz409np
+11. TODO App -  https://codesandbox.io/s/rlknz409np
 
 
-## Material design - Food search Project steps
+## Material design in React
 1. https://medium.com/dailyjs/design-patterns-with-react-easy-state-830b927acc7c
 2. https://github.com/solkimicreb/react-easy-state/tree/master/examples/beer-finder
 3. https://github.com/borela/presentable
@@ -201,7 +199,7 @@ Begginers - Developing modern apps with ReactJS, Redux
 1. https://github.com/geelen/create-react-app-snapshot
 2. https://github.com/PacktPublishing/Progressive-Web-Apps-with-React
 
-# Redux
+## Redux
 1. https://github.com/tayiorbeii/egghead.io_redux_course_notes
 2. https://github.com/tsaiDavid/simple-redux-boilerplate
 3. https://github.com/LeonardoDanielSu/redux-ld
@@ -244,15 +242,12 @@ Begginers - Developing modern apps with ReactJS, Redux
 1. https://reactjs.org/docs/context.html#when-to-use-context
 2. https://hackernoon.com/how-do-i-use-react-context-3eeb879169a2
 3. [multiple context] (https://itnext.io/combining-hocs-with-the-new-reacts-context-api-9d3617dccf0b)
-4. https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b
-5. https://medium.com/@tkssharma/react-js-new-context-api-for-data-passing-fa4bb952862f
-List, Change event: 
-6. https://codesandbox.io/s/6lxxo1x5vn
-7. http://elijahmanor.com/talks/react-16-3/#/Video
-8. https://github.com/umidbekkarimov/react-flag-kit
-9. https://codepen.io/adamaoc/post/react-context-api-roundtable
-10. https://codepen.io/jakub_antolak/post/
-11. https://stats.seandolinar.com/react-context-api-multiple-consumer-and-providers/
+4. [List, Change event](https://codesandbox.io/s/6lxxo1x5vn)
+5. http://elijahmanor.com/talks/react-16-3/#/Video
+6. https://github.com/umidbekkarimov/react-flag-kit
+7. https://codepen.io/adamaoc/post/react-context-api-roundtable
+8. https://codepen.io/jakub_antolak/post/
+9. https://stats.seandolinar.com/react-context-api-multiple-consumer-and-providers/
 
 ## LocalStorage
 1. https://code.tutsplus.com/tutorials/stateful-vs-stateless-functional-components-in-react--cms-29541
@@ -263,13 +258,19 @@ List, Change event:
 2. https://medium.freecodecamp.org/setting-up-internationalization-in-react-from-start-to-finish-6cb94a7af725
 3. https://github.com/i18next/react-i18next
 
-## Testing framework
+## Testing frameworks
 Enzyme docs are pretty solid: https://airbnb.io/enzyme/docs/api/
 Jest lets you define your test cases with `describe` and `it` blocks, and it lets you `expect` behaviors. enzyme lets you actually mount your components in a test environment and interact with them in a selector-based style that is similar to jQuery.
 React docs show a lot of examples with Jest (but not enzyme): https://reactjs.org/docs/test-utils.html
 
-
 The communication between proxy and the API does not have to support CORS at all.
 You can either write your own platform, or use a ready made solution such as https://www.npmjs.com/package/cors-anywhere
 
+## Puppeteer - Web Scraping with a Headless Browser
+It’s a Node.js library which provides a high-level API to control headless Chrome or Chromium or to interact with the DevTools protocol. It’s maintained by the Chrome DevTools team and an awesome open-source community.
 
+## Jest-Puppeteer Docs
+https://jestjs.io/docs/en/puppeteer
+https://jestjs.io/docs/en/expect#tocontainitem
+https://github.com/xfumihiro/jest-puppeteer
+https://github.com/smooth-code/jest-puppeteer
